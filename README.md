@@ -19,25 +19,10 @@
     <a href="https://github.com/kevingruesser" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kevingruesser-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/kevin-gr%C3%BC%C3%9Fer-297114164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-kevingruesser-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.xing.com/profile/Kevin_Gruesser2/cv" target="_blank"><img alt="xing" src="https://img.shields.io/badge/xing-kevingruesser-success?logo=xing"></a>
-    <a href="http://chat.skullgames.de"><img alt="Discord" src="https://img.shields.io/discord/180802275621601280?color=purple&label=Skullgames&logo=discord&logoColor=white"></a>
-    <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
-    <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
-    <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
-    <!--<img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>-->
-    <!--<img alt="mobile" src="https://img.shields.io/badge/📱 -+8613756537093-white?style=fflat-square&labelColor=white"></a>-->
-    <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
+    <a href="http://chat.skullgames.de"><img alt="Discord" src="https://img.shields.io/discord/180802275621601280?color=purple&label=Skullgames&logo=discord&logoColor=white">       </a>
 </p> 
 
-<table align="right">
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Chinese ★★☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Russian ★★☆</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/3909444.svg" height="15"> Hindi ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★☆☆</a></td></tr>
-</table>
-
-
+<!-- 
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28px"> Currently working on developing new clustering algorithms for autonomous pattern recognition
 
@@ -52,7 +37,7 @@
 - &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp; Fun fact: Vegetarian🌿 | huge fan of Harry Potter🧙 | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20px' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 - <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy listening music 🎧 going to gym 🏋️‍♂️ play badminton 🏸 and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20px' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-
+-->
 
 <p align="center">
     <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
