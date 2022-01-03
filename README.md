@@ -13,9 +13,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I'am Kevin Gruesser! A german Full Time Dad and Marvelous nooby Allrounder
 </h3> 
 
-<p align="center">   
-
-</p> 
 <p align="left"> 
     <a href="https://github.com/kevingruesser" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kevingruesser-181717?style=flat-square&logo=GitHub&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/kevin-gr%C3%BC%C3%9Fer-297114164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-kevingruesser-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a> 
@@ -83,4 +80,8 @@
        OXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXO
 </details>
 
+<p align="center">  
+    
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kev_mckenzie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</p>
