@@ -46,6 +46,6 @@
 [![PUG](https://img.shields.io/badge/-Pug-02569B?style=flat&logo=pug&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 
-[![VSCODE](https://img.shields.io/badge/-vscode-02569B?style=flat&logo=code&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
+[![Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/kevingruesser)
 
 </p>
