@@ -1,6 +1,6 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=kevingruesser" alt="kevingruesser"/>       
-    <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/visits/kevingruesser/kevingruesser" alt="milaan9"/></a> 
+    <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/kevingruesser" alt="kevingruesser"/></a> 
     <img src="https://badges.pufler.dev/years/kevingruesser" alt="Monthy commits"/>  
     <img src="https://badges.pufler.dev/commits/monthly/kevingruesser" alt="milaan9"/>   
     <a href="https://github.com/kevingruesser?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/kevingruesser?color=4C1&logo=github"></a>
