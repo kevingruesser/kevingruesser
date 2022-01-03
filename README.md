@@ -40,7 +40,6 @@
 [![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat&logo=ansible&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![HTML5](https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![CSS3](https://img.shields.io/badge/-css3-1572B6?style=flat&logo=css3&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
@@ -48,11 +47,8 @@
 [![PUG](https://img.shields.io/badge/-Pug-02569B?style=flat&logo=pug&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=ffffff)](https://github.com/kevingruesser)
-
 [![Code](https://img.shields.io/badge/-Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff)](https://github.com/kevingruesser)
 [![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=000)](https://github.com/kevingruesser)
-
-
 [![Debian package](https://img.shields.io/badge/-Debian-orange?style=flat&logo=debian)](https://github.com/kevingruesser)
 
 </details>
