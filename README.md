@@ -31,7 +31,9 @@
 </p>
 </details>
 
-<p align="right">
+<details>
+
+<summary><samp>&#9776;</samp> Click for my Stack </summary>
 
 [![Proxmox](https://img.shields.io/badge/-Proxmox-black?style=flat&logo=proxmox&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
@@ -52,4 +54,5 @@
 
 
 [![Debian package](https://img.shields.io/badge/-Debian-orange?style=flat&logo=debian)](https://github.com/kevingruesser)
-</p>
+
+</details>
