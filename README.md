@@ -40,10 +40,12 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
+[![HTML5](https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
+[![CSS3](https://img.shields.io/badge/-css3-1572B6?style=flat&logo=css3&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![Bootstrap](https://img.shields.io/badge/-Bulma%20CSS-563D7C?style=flat&logo=bulma&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 [![PUG](https://img.shields.io/badge/-Pug-02569B?style=flat&logo=pug&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
+
+[![VSCODE](https://img.shields.io/badge/-vscode-02569B?style=flat&logo=vscode&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 
 </p>
