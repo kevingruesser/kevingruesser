@@ -18,7 +18,7 @@
 <p align="center"> 
     <a href="https://github.com/kevingruesser" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kevingruesser-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/kevin-gr%C3%BC%C3%9Fer-297114164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-kevingruesser-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.xing.com/profile/Kevin_Gruesser2/cv" target="_blank"><img alt="xing" src="https://img.shields.io/badge/-kevingruesser-success?style=flat-square"></a>
+    <a href="https://www.xing.com/profile/Kevin_Gruesser2/cv" target="_blank"><img alt="xing" src="https://img.shields.io/badge/x-kevingruesser-success?style=flat-square"></a>
     <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Milan Parmar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
     <img alt="WeChat" src="https://img.shields.io/badge/-milaanparmar9-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
     <img alt="Skype" src="https://img.shields.io/badge/milaan.09-blue?flat-square&logo=skype&logoColor=white"></a>
