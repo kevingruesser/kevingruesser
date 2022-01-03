@@ -39,6 +39,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bulma%20CSS-563D7C?style=flat&logo=bulma&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 
+[![Proxmox](https://img.shields.io/badge/-Proxmox-black?style=flat&logo=proxmox&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
