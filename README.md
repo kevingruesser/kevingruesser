@@ -1,8 +1,6 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
-
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
-    <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/></a> 
+    <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/visits/kevingruesser/kevingruesser" alt="milaan9"/></a> 
     <img src="https://badges.pufler.dev/years/milaan9" alt="Monthy commits"/>  
     <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>   
     <a href="https://github.com/milaan9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github"></a>
