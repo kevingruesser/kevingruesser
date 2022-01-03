@@ -53,6 +53,10 @@
 
 </details>
 
+<details>
+
+<summary><samp>&#9776;</samp> Click for some Love </summary>
+
        XOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOX
        O:::::::::::::::::::::::::::::::::::::::::::::::::::::::O
        X:::::::::::::::::::::::::::::::::::::::::::::::::::::::X
@@ -77,3 +81,4 @@
        O:::::::::::::::::::::::::::::::::::::::::::::::::::::::O
        X:::::::::::::::::::::::::::::::::::::::::::::::::::::::X
        OXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXO
+</details>
