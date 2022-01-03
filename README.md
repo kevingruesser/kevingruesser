@@ -34,7 +34,7 @@
 <p align="right">
 
 [![Proxmox](https://img.shields.io/badge/-Proxmox-black?style=flat&logo=proxmox&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
-[![Docker](https//img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat&logo=ansible&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/kevingruesser)](https://github.com/kevingruesser)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/kevingruesser)](https://github.com/kevingruesser) 
