@@ -19,7 +19,7 @@
     <a href="https://github.com/kevingruesser" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kevingruesser-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/kevin-gr%C3%BC%C3%9Fer-297114164/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-kevingruesser-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.xing.com/profile/Kevin_Gruesser2/cv" target="_blank"><img alt="xing" src="https://img.shields.io/badge/xing-kevingruesser-success?style=flat-square"></a>
-    <a href="http://chat.skullgames.de"><img alt="Discord" src="![Discord](https://img.shields.io/discord/180802275621601280?logo=discord&logoColor=white)"></a>
+    <a href="http://chat.skullgames.de"><img alt="Discord" src="https://img.shields.io/discord/180802275621601280?logo=discord&logoColor=white"></a>
     <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
     <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
     <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
