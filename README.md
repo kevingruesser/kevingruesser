@@ -7,7 +7,7 @@
     <a href="https://github.com/kevingruesser/kevingruesser" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/kevingruesser/kevingruesser?label=Profile%20update&style=fflat-square"></a>
 </p> 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/kevingruesser/kevingruesser/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h3 align="center"> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I'am Kevin Gruesser! A german Full Time Dad and Marvelous nooby Allrounder
