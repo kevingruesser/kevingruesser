@@ -50,36 +50,6 @@
 
 </details>
 
-<details>
-
-<summary><samp>&#9776;</samp> Click for some Love </summary>
-
-       XOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOX
-       O:::::::::::::::::::::::::::::::::::::::::::::::::::::::O
-       X:::::::::::::::::::::::::::::::::::::::::::::::::::::::X
-       O::::::::::::           :::::::::           ::::::::::::O
-       X:::::::::                :::::                :::::::::X
-       O:::::::       *********    :    *********       :::::::O
-       X:::::      *****     *****   *****     *****      :::::X
-       O::::     ****           *******           ****     ::::O
-       X:::     ****              ***              ****     :::X
-       O:::     ****               *               ****     :::O
-       X::::     ****                             ****     ::::X
-       O:::::     ****                           ****     :::::O
-       X:::::::     ****                       ****     :::::::X
-       O:::::::::     ****                   ****     :::::::::O
-       X:::::::::::     ****               ****     :::::::::::X
-       O::::::::::::::     ****         ****     ::::::::::::::O
-       X:::::::::::::::::     ****   ****     :::::::::::::::::X
-       O::::::::::::::::::::     *****     ::::::::::::::::::::O
-       X:::::::::::::::::::::::    *    :::::::::::::::::::::::X
-       O:::::::::::::::::::::::::     :::::::::::::::::::::::::O
-       X::::::::::::::::::::::::::: :::::::::::::::::::::::::::X
-       O:::::::::::::::::::::::::::::::::::::::::::::::::::::::O
-       X:::::::::::::::::::::::::::::::::::::::::::::::::::::::X
-       OXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXOXO
-</details>
-
 <p align="center">  
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kev_mckenzie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
