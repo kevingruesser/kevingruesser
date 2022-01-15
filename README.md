@@ -53,9 +53,7 @@
   </ul>
 </p>
 
-<footer>
-  <p align="left">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kevingruesser&theme=dark&show_icons=true" alt="kevingruesser Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=kevingruesser&&theme=dark&show_icons=true" alt="kevingruesser"/>
-  </p>
-</footer>
+<p align="right">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kevingruesser&theme=dark&show_icons=true" alt="kevingruesser Github readme stats"><br/>
+  <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=kevingruesser&&theme=dark&show_icons=true" alt="kevingruesser"/>
+</p>
