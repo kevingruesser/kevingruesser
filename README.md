@@ -11,6 +11,10 @@
 <a href="https://github.com/kevingruesser/kevingruesser" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/kevingruesser/kevingruesser?label=Profile%20update&style=fflat-square"></a>
 </p> 
 
+<h3 align="center"> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I'am Kevin Gruesser! A german Full Time Dad and Marvelous nooby Allrounder
+</h3> 
+
 <table>
 <tr>
 <td>
