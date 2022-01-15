@@ -14,12 +14,12 @@
 <p align="left">
 
 <h2>My Actual PC-Specs</h2>
-  <ol>
+  <ul>
     <li>
       <b>Motherboard</b>
-      <ol>
+      <ul>
         <li>ASRock X570 Steel Legend</li>
-      </ol>
+      </ul>
     </li>
     <li>
       <b>CPU</b>
@@ -29,28 +29,28 @@
     </li>
     <li>
       <b>RAM</b>
-      <ol>
+      <ul>
         <li>16 GB DualChannel</li>
-      </ol>
+      </ul>
     </li>
     <li>
       <b>GraKa</b>
-      <ol>
+      <ul>
         <li>NVIDIA GeForce GTX 1080</li>
-      </ol>
+      </ul>
     </li>
     <li>
       <b>HDDs/ SSDs</b>
-      <ol>
+      <ul>
         <li>500GB SAMSUNG MZVL2512HCJQ-00B00 NVME-SSD</li>
         <li>1TB Samsung 870 QVO SSD</li>
         <li>2TB Seagate ST2000DM001 HDD 7200RPM</li>
         <li>2TB Toshiba DT01ACA200 HDD 7200RPM</li>
         <li>1TB Seagate ST1000DX001-1NS162 HDD 7200RPM</li>
-      </ol>
+      </ul>
     </li>
 
-  </ol>
+  </ul>
 </p>
 
 <footer>
