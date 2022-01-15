@@ -11,9 +11,6 @@
     <a href="https://github.com/kevingruesser/kevingruesser" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/kevingruesser/kevingruesser?label=Profile%20update&style=fflat-square"></a>
 </p> 
 
-<table>
-  <tr>
-    <td>
       <p align="left">
 
       <h2>My Actual PC-Specs</h2>
@@ -55,13 +52,8 @@
 
         </ul>
       </p>
-    </td>
-
-    <td>
+  
       <p align="right">
         <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kevingruesser&theme=dark&show_icons=true" alt="kevingruesser Github readme stats"><br/>
         <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=kevingruesser&&theme=dark&show_icons=true" alt="kevingruesser"/>
       </p>
-    </td>
-  </tr>
-</table>
