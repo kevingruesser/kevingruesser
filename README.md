@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/kevingruesser/kevingruesser/blob/main/Logo.png" alt="Skull IT" />
-</p>
-
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=kevingruesser" alt="kevingruesser"/>       
 <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/kevingruesser" alt="kevingruesser"/></a> 
